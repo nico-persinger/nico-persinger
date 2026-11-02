@@ -1,19 +1,18 @@
-# I am Nicholas Persinger
+## Nicholas Persinger
 
-**Software Engineer**
+**Visual Intelligence Systems**
 
-## Focus Areas
-Full-Stack Development, Cloud Technologies, Computer Vision, ML Model Integration, Edge Deployment
+Real-time image processing. Computer vision for the web.
 
-## ML Experience
-- Integrated computer vision models into web applications using TensorFlow.js for client-side inference
-- Deployed object detection systems processing video streams at 30fps with sub-200ms latency
-- Implemented real-time image processing pipelines for product recommendation systems
-- Optimized neural network models for edge devices reducing model size by 85% with minimal accuracy loss
+**What I've Built:**
+- Real-time object detection (30fps video)
+- Semantic segmentation for product images
+- Visual search from camera
+- Model compression for mobile deployment
 
-## Connect
-- GitHub: [@nico-persinger](https://github.com/nico-persinger)  
-- LinkedIn: [Profile](https://linkedin.com/in/nico-persinger)
+**Technologies:**
+TensorFlow.js, ONNX, WebGL acceleration, edge inference
 
----
-*Building solutions that matter.*
+**Current:** Building multimodal search—combining text and image understanding for e-commerce discovery.
+
+**Belief:** Vision models will be as common as text models. Efficiency matters.
