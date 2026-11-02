@@ -1,21 +1,16 @@
-I am Nicholas Persinger
+Nicholas Persinger
+Real-time Visual Intelligence
 
-**Computer Vision Engineer**
+### Systems
 
-Real-time visual intelligence systems for web and mobile applications.
+Object detection (30fps), Semantic segmentation, Visual search, Model compression for mobile
 
-**Systems Built:**
-- Real-time object detection (30fps video streams)
-- Semantic segmentation for e-commerce products
-- Visual search from camera input
-- Model compression for mobile deployment
+**Stack:** TensorFlow.js, ONNX, WebGL, Edge inference
 
-**Technical Stack:**
-- TensorFlow.js for browser inference
-- ONNX for cross-platform compatibility
-- WebGL acceleration
-- Edge device optimization
+### Current
 
-**Current Work:** Building multimodal search systems combining text and image understanding for improved product discovery.
+Multimodal search: text + image understanding for product discovery
 
-Philosophy: Vision models will be as common as language models. Efficiency and deployment ease are critical.
+### Belief
+
+Vision models becoming ubiquitous. Efficiency and ease-of-deployment are critical.
