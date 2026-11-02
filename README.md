@@ -1,4 +1,4 @@
-# Nicholas Persinger
+**Nicholas Persinger** (Nick)
 
 Full-stack web developer building modern applications across the JavaScript ecosystem.
 
