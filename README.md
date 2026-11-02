@@ -1,7 +1,5 @@
 # I am Nicholas Persinger
 
-**Software Engineer**
-
 ## Focus Areas
 Full-Stack Development, Cloud Technologies, Modern Frameworks
 
