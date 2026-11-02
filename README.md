@@ -1,11 +1,5 @@
-# I am Nicholas Persinger
+# Nicholas Persinger
 
-## Focus Areas
-Full-Stack Development, Cloud Technologies, Modern Frameworks
+Software engineer building modern web and cloud applications. Strong foundation in full-stack development and distributed systems.
 
-## Connect
-- GitHub: [@nico-persinger](https://github.com/nico-persinger)  
-- LinkedIn: [Profile](https://linkedin.com/in/nico-persinger)
-
----
-*Building solutions that matter.*
+**Stack**: JavaScript, React, Node.js, TypeScript, AWS, PostgreSQL, Docker
