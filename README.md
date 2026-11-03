@@ -1,71 +1,55 @@
-# Nicholas Persinger
+## Nicholas Persinger
 
-**Real-Time Visual Intelligence**
 
-## Focus
+**Quantitative Finance & Applied Mathematics · Senior Quantitative Analyst / Financial Software Engineer**
 
-Building computer vision systems for real-world applications. Real-time performance on mobile and edge hardware. Visual intelligence that serves users, not GPU farms.
 
-## Systems
+```math
+\min_{w}\; w^{\top}\Sigma\, w \quad \text{subject to} \quad w^{\top}\mu = r,\;\; \mathbf{1}^{\top}w = 1
+```
 
-### 📹 Real-Time Object Detection
 
-Processing video streams frame-by-frame with multiple objects detected per frame.
+I like problems where the math has to be right: how a portfolio's risk really adds up, how bond prices move when rates shift, and how long a claim will stay open. I build optimization, survival-analysis and forecasting models, check them against their assumptions, and turn them into tested software. 7+ years as a full-stack and financial software engineer, today in healthcare payments and claims.
 
-**Performance:**
-- 30 FPS on mobile hardware
-- Multiple objects per frame
-- Proper tracking across frames
-- Confidence scores and bounding boxes
 
-**Applications:** Security, augmented reality, autonomous vehicles, robotics
+<table>
+<tr>
+<th width="60%">📐 Models</th>
+<th width="40%">⚙️ Systems they feed</th>
+</tr>
+<tr>
+<td valign="top">
 
-### 🖼️ Semantic Segmentation
 
-Pixel-level classification identifying different objects and regions in images.
+**Frontier Lab** · mean-variance and risk-parity portfolios from shrinkage covariance, with VaR and expected shortfall
 
-**Use Cases:**
-- E-commerce product understanding
-- Medical imaging analysis
-- Autonomous vehicle scene understanding
-- Image quality assessment
 
-**Results:** Accurate segmentation enabling downstream analysis and decision-making.
+**Duration Desk** · bond pricing off a fitted yield curve, duration, convexity and key-rate shocks
 
-### 🔍 Visual Search
 
-Searching by image rather than text. Find similar products or images using visual similarity.
+**ReserveCast** · IBNR claims reserves blending chain-ladder and Bornhuetter-Ferguson, with confidence bands
 
-**Architecture:**
-- Image encoder generating embeddings
-- Vector similarity matching
-- Real-time retrieval from large catalogs
-- Continuous learning from user feedback
 
-**Experience:** Users photograph products and find similar items instantly.
+**Hazard Lab** · time-to-payment as a survival problem: Kaplan-Meier and Cox models with censoring handled properly
 
-### 📱 Mobile Model Deployment
 
-Optimizing models for phones and tablets. Balancing accuracy, speed, and battery consumption.
+</td>
+<td valign="top">
 
-**Techniques:**
-- Model quantization for smaller size
-- Efficient architectures (MobileNet, SqueezeNet)
-- Hardware acceleration (GPU, Neural Engine)
-- Caching and smart scheduling
 
-## Philosophy
+**Reconcilio** · matches 835 remittances, claims and bank deposits so only true exceptions reach review
 
-Vision models are becoming ubiquitous. Efficiency and ease-of-deployment are no longer nice-to-have—they're essential. Users expect instant results, not 5-second inference times.
 
-## Technology Stack
+**ClaimFlow** · claims adjudication rules engine that explains every decision in plain language
 
-TensorFlow.js, ONNX, WebGL acceleration, OpenCV, Mobile frameworks, Efficient architectures, Quantization tools
 
-## Current Focus
+</td>
+</tr>
+</table>
 
-Building multimodal search combining text and image understanding. Understanding that visual and linguistic information together is more powerful than either alone. Creating systems that understand user intent from both text queries and visual examples.
 
----
+**Toolkit** — `Python` `NumPy` `SciPy` `pandas` `CVXPY` `statsmodels` `lifelines` `Jupyter` · `FastAPI` `PostgreSQL` `React` `Docker` `Azure` `AWS`
 
-*Vision that works in the real world.*
+
+**How I work** — I start with *why*: which assumptions drive the answer and how it will be used. I build for reliability, because in healthtech the software touches people's finances. And I work closely with product, data and design so we solve the right problem.
+
